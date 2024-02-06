@@ -7,4 +7,4 @@
 # 6: 바른 말 고운 말~
 # 7: adadsa
 # 8: adsfafas
-
+# 9: 옥창희 + colab 연동
